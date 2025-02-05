@@ -1,3 +1,4 @@
+ https://sandrodevx.github.io/Faq-Accordion/
 # FAQ Accordion Project
 
 This is a simple and interactive FAQ (Frequently Asked Questions) Accordion built using **HTML** and **CSS**. The project demonstrates how to create a collapsible FAQ section without using JavaScript. It is fully responsive and uses CSS transitions for smooth animations.
